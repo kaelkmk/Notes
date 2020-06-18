@@ -2,7 +2,7 @@
 
 ## Prerequisite
 
-Android Sdk need to be installed, <br/>
+Latest version of Android Sdk need to be installed, <br/>
 
 ## 1. Check your android virtual device ( avd ) 
 It should be shown something like this
@@ -28,3 +28,7 @@ Android Emulator Location is changed from Android/Sdk/tools/emulator.exe to Sdk/
 We need to use the emulator.exe from Android/Sdk/emulator/emulator.exe <br/>
 
 ![solution](emulator-solved.png)
+
+## Script
+
+I made this [script](https://github.com/kaelkmk/Notes/blob/master/android-emulator-from-cmd/script/launch-emulator.bat) to easier booting of my avd with emulator, enjoy !
