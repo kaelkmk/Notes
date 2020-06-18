@@ -31,4 +31,4 @@ We need to use the emulator.exe from Android/Sdk/emulator/emulator.exe <br/>
 
 ## Script
 
-I made this [script](https://github.com/kaelkmk/Notes/blob/master/android-emulator-from-cmd/script/launch-emulator.bat) to easier booting of my avd with emulator, enjoy !
+I made this [script](https://github.com/kaelkmk/Notes/blob/master/android-emulator-from-cmd/script/launch-emulator.bat) for easier and faster booting of my avd without opening android studio, change the script at your needs, enjoy !
