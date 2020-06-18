@@ -1,4 +1,4 @@
-# Staring Android Emulator From Cmd
+# Launch Android Emulator From Cmd
 
 ## Prerequisite
 
