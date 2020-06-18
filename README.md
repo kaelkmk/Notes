@@ -1,2 +1,2 @@
 # Notes
-Notes for my cyber security journey
+just my notes for easier daily routines
