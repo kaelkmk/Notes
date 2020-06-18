@@ -27,4 +27,4 @@ Android Emulator Location is changed from Android/Sdk/tools/emulator.exe to Sdk/
 
 We need to use the emulator.exe from Android/Sdk/emulator/emulator.exe <br/>
 
-<div style="align:center"> ![solved](images/emulator-solved.png) </div>
+![solution](emulator-solved.png)
